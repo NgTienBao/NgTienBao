@@ -1,16 +1,43 @@
-### Hi there 👋
-
-<!--
-**NgTienBao/NgTienBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"name": "spermbot",
+  "version": "1.1.14-Obfuscated-Edition",
+  "description": "SpermLord's Messenger bot",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "login": "node login.js"
+  },
+  "license": "NDA",
+  "author": "SpermLord",
+  "dependencies": {
+    "@types/cheerio": "",
+    "@types/express": "",
+    "@types/fs-extra": "",
+    "@types/npmlog": "",
+    "axios": "",
+    "chalk": "",
+    "cheerio": "",
+    "cli-cursor": "",
+    "express": "",
+    "fast-speedtest-api": "",
+    "fca-unofficial": "",
+    "fs-extra": "",
+    "moment-timezone": "",
+    "nano": "",
+    "node-fetch": "",
+    "totp-generator": "",
+    "ytdl-core": "",
+    "vm2": "",
+    "tinyurl": "",
+    "systeminformation": "",
+    "pidusage": "",
+    "node-cmd": "",
+    "time-stamp": "",
+    "diskusage": "^1.1.3",
+    "minimist": "^1.2.5",
+    "path": ""
+   
+  }
+}
