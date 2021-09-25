@@ -8,3 +8,237 @@
 NgTienBao/NgTienBao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.057Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.651Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "wd",
+		"value": "1920x969",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.353Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.935Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100064427343444",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.356Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.940Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "spin",
+		"value": "r.1004405196_b.trunk_t.1631788958_s.1_v.2_",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.359Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.955Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "xs",
+		"value": "48%3Ai69IPrvmaVPnKw%3A2%3A1631788952%3A-1%3A6378%3A%3AAcXzy4kB5ztCy2cwbutl59Bz1hStETtzlTSyCmUPPw",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.360Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:31.019Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "fr",
+		"value": "10Arw3UzYMc1MisUq.AWXYcyCrQGe9bSpbJkmJNLDc4GY.BhQx-e.zu.AAA.0.0.BhQx-e.AWUx86pZAk4",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.428Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:31.026Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "datr",
+		"value": "mh9DYfKwdTo8jqRW_xejtuwm",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.431Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:31.031Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "sb",
+		"value": "8X1AYduA6Z8jVhnznZHPQEtt",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.057Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.651Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "wd",
+		"value": "1920x969",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.353Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.935Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100064427343444",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.356Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.940Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "spin",
+		"value": "r.1004405196_b.trunk_t.1631788958_s.1_v.2_",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.359Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:30.955Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "xs",
+		"value": "48%3Ai69IPrvmaVPnKw%3A2%3A1631788952%3A-1%3A6378%3A%3AAcXzy4kB5ztCy2cwbutl59Bz1hStETtzlTSyCmUPPw",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.360Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:31.019Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "fr",
+		"value": "10Arw3UzYMc1MisUq.AWXYcyCrQGe9bSpbJkmJNLDc4GY.BhQx-e.zu.AAA.0.0.BhQx-e.AWUx86pZAk4",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.428Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:31.026Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	},
+	{
+		"key": "datr",
+		"value": "mh9DYfKwdTo8jqRW_xejtuwm",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2021-09-16T16:28:37.431Z",
+		"lastAccessed": "2021-09-16T16:28:40.049Z"
+		"creation": "2021-09-16T16:49:31.031Z",
+		"lastAccessed": "2021-09-16T16:49:33.962Z"
+	}
+] 
+  77  cmdMsg.json 
+@@ -1849,5 +1849,82 @@
+		"mentions": {},
+		"timestamp": "1631810460507",
+		"isGroup": true
+	},
+	{
+		"type": "message",
+		"senderID": "100069279893724",
+		"body": "/help",
+		"threadID": "100069279893724",
+		"messageID": "mid.$cAAAAASFE9oiCIMMRXV7733IfD1KQ",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631810603357",
+		"isGroup": false
+	},
+	{
+		"type": "message",
+		"senderID": "100069279893724",
+		"body": "/run cmd.run(\"refresh\")",
+		"threadID": "3613441495423970",
+		"messageID": "mid.$gAAzWZ-jAW-KCIMRnaV7738ednVqC",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631810690921",
+		"isGroup": true
+	},
+	{
+		"type": "message",
+		"senderID": "100069279893724",
+		"body": "/project",
+		"threadID": "3613441495423970",
+		"messageID": "mid.$gAAzWZ-jAW-KCIMahoF774FYzivgI",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631810836896",
+		"isGroup": true
+	},
+	{
+		"type": "message",
+		"senderID": "100069279893724",
+		"body": "/help",
+		"threadID": "100069279893724",
+		"messageID": "mid.$cAAAAASFE9oiCIMa0KV774FrfOh69",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631810841641",
+		"isGroup": false
+	},
+	{
+		"type": "message",
+		"senderID": "100070727704402",
+		"body": "/help",
+		"threadID": "100070727704402",
+		"messageID": "mid.$cAAAAAZiIIQaCIMpCr1774T6A9cQ1",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631811074735",
+		"isGroup": false
+	},
+	{
+		"type": "message",
+		"senderID": "100069279893724",
+		"body": "/help",
+		"threadID": "100069279893724",
+		"messageID": "mid.$cAAAAASFE9oiCIMswSF774XnvQc-q",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631811135560",
+		"isGroup": false
+	},
+	{
+		"type": "message",
+		"senderID": "100069279893724",
+		"body": "/code read code",
+		"threadID": "100069279893724",
+		"messageID": "mid.$cAAAAASFE9oiCIMtDel774X63cPZg",
+		"attachments": [],
+		"mentions": {},
+		"timestamp": "1631811140474",
+		"isGroup": false
